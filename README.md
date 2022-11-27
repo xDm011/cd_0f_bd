@@ -41,6 +41,6 @@ git clone https://github.com/xDm011/cd_0f_bd.git
 cd cd_0f_bd
 
 
-Run Now 🏃‍♂️ 🏃‍♂️ 🏃‍♂️ 
+<h1>Run Now 🏃‍♂️ 🏃‍♂️ 🏃‍♂️ </h>
 
-python cd_of_bd_te4m.py</h1>
+* python cd_of_bd_te4m.py
