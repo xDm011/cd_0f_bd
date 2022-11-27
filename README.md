@@ -1,7 +1,11 @@
 
 
 <h1>CD_OF_BD
-Please like and follow my page and join my public group KILLER-BOY-202
+  
+  Assalamu Alaikum Everyone ☺️
+
+Sobar jonno free kore dilam Enjoy koro sobai 🥰
+Please like and follow my page and join my public group CD_OF_BD
 
 Enoy Free command
 BANGLADESHI NUMBER+UID CLONING UPDTE TOOL
