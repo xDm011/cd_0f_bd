@@ -5,7 +5,8 @@
   Assalamu Alaikum Everyone ☺️
 
 Sobar jonno free kore dilam Enjoy koro sobai 🥰
-Please like and follow my page and join my public group CD_OF_BD
+Please like and follow my page and join my public group 
+CD_OF_BD
 
 Enoy Free command
 BANGLADESHI NUMBER+UID CLONING UPDTE TOOL
@@ -40,6 +41,6 @@ git clone https://github.com/xDm011/cd_0f_bd.git
 cd cd_0f_bd
 
 
-Run Now
+Run Now 🏃‍♂️ 🏃‍♂️ 🏃‍♂️ 
 
 python cd_of_bd_te4m.py</h1>
