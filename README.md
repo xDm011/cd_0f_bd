@@ -1,4 +1,4 @@
-
+ko
 
 <h1>CD_OF_BD
   
@@ -40,8 +40,7 @@ WORK ONLY BANGLADESH 🇧🇩🇧🇩 </h1>
 
 * cd cd_0f_bd
 
-
-<h1>     Run Now 🏃‍♂️ 🏃‍♂️ 🏃‍♂️ </h>
+ Run Now 🏃‍♂️ 🏃‍♂️ 🏃‍♂️
 
 
 * python cd_of_bd_te4m.py
